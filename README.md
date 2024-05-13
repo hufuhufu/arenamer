@@ -5,7 +5,7 @@ Rename multiple files with values from an excel file.
 
 ## Install
 ### Pre-built executables
-You can download a pre-built executable avaliable from the [release page](releases).
+You can download a pre-built executable avaliable from the [release page](../../releases).
 
 ### Building from source
 To install from source, you need Rust installed in your system. You can install Rust with [rustup](https://rustup.rs).\
